@@ -1,5 +1,7 @@
 # World Happiness Report
 
+Ejecución en orden: data_clean, exploring_data, graphics
+
 El **World Happiness Report** es un informe anual que clasifica a los países del mundo según el nivel de felicidad de sus ciudadanos. Este reporte utiliza encuestas y datos estadísticos para medir varios factores que influyen en la felicidad, tales como el ingreso per cápita, el apoyo social, la esperanza de vida saludable, la libertad para tomar decisiones de vida, la generosidad y la corrupción. Los datos provienen de la **Gallup World Poll**, que es una encuesta global realizada en varios países.
 
 El dataset generalmente incluye varias columnas relacionadas con estas variables, así como un puntaje general de felicidad para cada país. Los principales elementos suelen incluir:
